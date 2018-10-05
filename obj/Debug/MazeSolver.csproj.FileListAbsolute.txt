@@ -1,0 +1,23 @@
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\bin\Debug\MazeSolverDemo.exe
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\bin\Debug\MazeSolverDemo.pdb
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.frmMain.resources
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolver.csproj.GenerateResource.Cache
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.exe
+C:\Users\24Scroll\Desktop\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.pdb
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\bin\Debug\MazeSolverDemo.exe
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\bin\Debug\MazeSolverDemo.pdb
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.frmMain.resources
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolver.csproj.GenerateResource.cache
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.exe
+E:\бибип\3.2\диплом\Cookie monster\ЖАБКА ДУШИТЬ\obj\Debug\MazeSolverDemo.pdb
+E:\бибип\3.2\диплом\Cookie monster\prog\bin\Debug\MazeSolverDemo.exe
+E:\бибип\3.2\диплом\Cookie monster\prog\bin\Debug\MazeSolverDemo.pdb
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolverDemo.frmMain.resources
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolver.csproj.GenerateResource.cache
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolver.csproj.CoreCompileInputs.cache
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolverDemo.exe
+E:\бибип\3.2\диплом\Cookie monster\prog\obj\Debug\MazeSolverDemo.pdb
